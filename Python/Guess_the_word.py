@@ -19,8 +19,13 @@ def Guess():
 	j = 0
 	while j in range(len(PhraseList)):
 		for i in range(len(Char)):
-			if PhraseList[j] == Char[i]:
+			if Char[i] == PhraseList[j]:
 				Result.append(Char[i])
-				j += 1
-	print 'Is this your phrase: {0}'.format(Result)
-	
+				if Result == PhraseList:
+					print 'Is this your phrase: {0}'.format("".join(Result))
+					return
+				else:
+					j+=1
+
+if __name__ == "__main__":
+	Guess()
