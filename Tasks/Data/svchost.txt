@@ -1,0 +1,16 @@
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+svchost.exe                    908 Services                   0      5,768 K
+svchost.exe                   1000 Services                   0      6,260 K
+svchost.exe                    760 Services                   0     17,988 K
+svchost.exe                    996 Services                   0    130,372 K
+svchost.exe                   1056 Services                   0      9,256 K
+svchost.exe                   1080 Services                   0     44,736 K
+svchost.exe                   1176 Services                   0      2,932 K
+svchost.exe                   1408 Services                   0     28,484 K
+svchost.exe                   1700 Services                   0      9,844 K
+svchost.exe                   2100 Services                   0      4,564 K
+svchost.exe                   3244 Services                   0      2,600 K
+svchost.exe                   3276 Services                   0      3,532 K
+svchost.exe                   5968 Services                   0     12,000 K

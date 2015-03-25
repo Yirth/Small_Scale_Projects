@@ -1,0 +1,306 @@
+18:53:28.468000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,160 K
+18:53:28.702000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,156 K
+18:53:28.936000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,144 K
+18:53:29.170000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,148 K
+18:53:29.404000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,136 K
+18:53:29.638000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,164 K
+18:53:29.904000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,164 K
+18:53:30.138000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,160 K
+18:53:30.372000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,136 K
+18:53:30.606000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,152 K
+18:53:30.840000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,156 K
+18:53:31.074000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,152 K
+18:53:31.308000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,152 K
+18:53:31.542000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,156 K
+18:53:31.776000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,140 K
+18:53:32.010000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,148 K
+18:53:32.244000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,164 K
+18:53:32.478000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,152 K
+18:53:32.712000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,148 K
+18:53:32.946000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,156 K
+18:53:33.180000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,160 K
+18:53:33.414000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,168 K
+18:53:33.648000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,136 K
+18:53:33.882000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,132 K
+18:53:34.116000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,152 K
+18:53:34.350000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,152 K
+18:53:34.586000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,132 K
+18:53:34.822000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,140 K
+18:53:35.056000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,172 K
+18:53:35.290000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,164 K
+18:53:35.524000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,164 K
+18:53:35.758000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,160 K
+18:53:35.992000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,136 K
+18:53:36.226000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,152 K
+18:53:36.460000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,156 K
+18:53:36.694000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,152 K
+18:53:36.928000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,152 K
+18:53:37.162000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,156 K
+18:53:37.396000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,140 K
+18:53:37.630000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,148 K
+18:53:37.864000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,164 K
+18:53:38.098000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,148 K
+18:53:38.332000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,152 K
+18:53:38.566000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,156 K
+18:53:38.800000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,140 K
+18:53:39.034000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,148 K
+18:53:39.268000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,164 K
+18:53:39.502000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,152 K
+18:53:39.736000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,148 K
+18:53:39.970000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,156 K
+18:53:40.204000
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+pythonw.exe                   5900 Console                    1     28,776 K
+pythonw.exe                   6872 Console                    1     37,160 K
